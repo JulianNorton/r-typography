@@ -99,7 +99,7 @@ span.user .userkarma {
 }
 
 .pref-lang {
-	font-weight: normal;	
+	font-weight: normal;
 }
 
 /* Content */
@@ -110,6 +110,9 @@ span.user .userkarma {
 	max-width: 1020px;
 }
 
+.entry {
+	padding-left: 5px;
+}
 
 .link .rank {
 	color: #cbcbcb;
@@ -130,9 +133,18 @@ span.user .userkarma {
 	color: #777;
 }
 
+.title {
+	line-height: 120%;
+}
+
 .domain,
 .tagline {
 	color: #777;
+}
+
+.link .title {
+	font-size: 18px;
+	margin-bottom: 2px;
 }
 
 .entry .buttons a.comments,
@@ -141,7 +153,9 @@ span.user .userkarma {
 }
 
 .thing {
-	margin: 15px 0 5px 0;
+	border-bottom: 1px solid #DBDBDB;
+	margin: 10px 0 0;
+	padding-bottom: 9px;
 }
 
 /* Side bar */
