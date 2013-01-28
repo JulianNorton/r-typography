@@ -379,6 +379,7 @@ h3 {
 .link .usertext .md {
 	border: 1px solid #bdbdbd;
 	border-radius: 0;
+	padding: 5px 10px;
 }
 
 /* Footer */
