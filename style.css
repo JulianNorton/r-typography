@@ -110,6 +110,12 @@ span.user .userkarma {
 	max-width: 1020px;
 }
 
+#siteTable .thing {
+	border-bottom: 1px solid #DBDBDB;
+	margin: 10px 0 0;
+	padding-bottom: 9px;
+}
+
 .entry {
 	padding-left: 5px;
 }
@@ -150,12 +156,6 @@ span.user .userkarma {
 .entry .buttons a.comments,
 .entry .buttons a.comments .empty {
 	color: #50637B;
-}
-
-.thing {
-	border-bottom: 1px solid #DBDBDB;
-	margin: 10px 0 0;
-	padding-bottom: 9px;
 }
 
 /* Side bar */
@@ -239,6 +239,10 @@ h3 {
 .sidecontentbox .content {
 	border: none;
 	border-bottom: 1px solid #DBDBDB;
+}
+
+.sidecontentbox ul li {
+	padding-bottom: 2px;
 }
 
 .nub {
