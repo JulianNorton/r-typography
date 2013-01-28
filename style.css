@@ -130,7 +130,7 @@ span.user .userkarma {
 }
 
 #siteTable {
-	margin: 16px 6px 0;
+	margin: 10px 6px 0;
 	max-width: 1020px;
 }
 
@@ -182,8 +182,17 @@ span.user .userkarma {
 	color: #50637b;
 }
 
-p.nextprev {
+.nextprev {
+	color: #777;
 	margin-left: 12px;
+}
+
+.nextprev a,
+.nextprev a:hover {
+	background-color: #fc0;
+	border: 1px solid #999;
+	color: #1a1a1a;
+	padding: 1px 4px 2px;
 }
 
 /* Side bar */
