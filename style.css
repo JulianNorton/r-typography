@@ -128,7 +128,7 @@ a {
 }
 
 .thing {
-	margin: 10px 0 5px 0;
+	margin: 15px 0 5px 0;
 }
 
 /* Side bar */
@@ -161,6 +161,13 @@ h3 {
 }
 
 #search {
+	width: 100%;
+}
+
+#search input[type="text"] {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
 	width: 100%;
 }
 
