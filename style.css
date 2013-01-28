@@ -124,8 +124,9 @@ span.user .userkarma {
 
 .menuarea {
 	border-bottom: 1px solid #dbdbdb;
+	margin: 0 10px 6px;
 	max-width: 1001px;
-	padding-left: 8px;
+	padding-left: 6px;
 }
 
 #siteTable {
@@ -182,7 +183,7 @@ span.user .userkarma {
 }
 
 p.nextprev {
-	margin-left: 14px;
+	margin-left: 12px;
 }
 
 /* Side bar */
