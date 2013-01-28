@@ -362,6 +362,11 @@ h3 {
 	font-size: 10px;
 }
 
+.link.last-clicked {
+	border: 1px dashed #bdbdbd;
+	padding: 10px;
+}
+
 /* Footer */
 
 .footer {
