@@ -161,6 +161,14 @@ h2 {
 	background-color: inherit;
 }
 
+.titlebox span.word {
+	display: none;
+}
+
+.titlebox span.number:after {
+	content: " typophiles";
+}
+
 .infobar {
 	width: 100%;
 }
