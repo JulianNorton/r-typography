@@ -2,6 +2,10 @@ body {
 	background-color: #FAFAFA;
 }
 
+a {
+	color: #50637B;
+}
+
 /* Header */
 
 #header {
@@ -34,7 +38,7 @@ body {
 	letter-spacing: 1px;
 }
 
-#header-img{
+#header-img {
 	margin-left: 55px;
 	margin-right: 5px;
 	padding-top: 3px;
@@ -60,7 +64,7 @@ body {
 	color: #1a1a1a;
 }
 
-p.nextprev{
+p.nextprev {
 	margin-left: 93px;
 }
 
@@ -83,7 +87,7 @@ p.nextprev{
 	padding: 4px 10px 4px 10px;
 }
 
-span.user{
+span.user {
 	background-color: #FAFAFA;
 	vertical-align: middle;
 }
@@ -106,10 +110,6 @@ span.user .userkarma {
 	max-width: 1020px;
 }
 
-
-a {
-	color: #50637B;
-}
 
 .link .rank {
 	color: #cbcbcb;
