@@ -121,7 +121,8 @@ a {
 	margin-right: 1px;
 }
 
-.entry .buttons a.comments {
+.entry .buttons a.comments,
+.entry .buttons a.comments .empty {
 	color: #50637B;
 }
 
