@@ -71,25 +71,28 @@ a {
 
 .tabmenu li {
 	background-color: inherit;
-	border: none;
-	border-bottom: 1px solid #999;
 	margin: 0;
 	padding: 0;
+}
+
+.tabmenu li a {
+	background-color: #fafafa;
+	border: 1px solid #999;
+	border-right: none;
+	font-weight: normal;
+	padding: 4px 12px 5px;
+}
+
+.tabmenu li:last-child a {
+	border-right: 1px solid #999;
 }
 
 .tabmenu li.selected a {
 	background-color: #fafafa;
 	border: 1px solid #999;
 	border-bottom: 1px solid #fafafa;
+	border-right: none;
 	color: #1a1a1a;
-}
-
-.tabmenu li a {
-	background-color: #fafafa;
-	border-right: 1px solid #999;
-	border-top: 1px solid #999;
-	font-weight: normal;
-	padding: 4px 12px 5px;
 }
 
 #header-bottom-right {
