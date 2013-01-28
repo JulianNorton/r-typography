@@ -1,10 +1,6 @@
-/* New /r/typography css */
-
 body {
 	background-color: #FAFAFA;
 }
-
-
 
 /* Header */
 
@@ -18,156 +14,155 @@ body {
 }
 
 .pagename a {
-	letter-spacing: 1px;
 	color: #1a1a1a;
-	font-size: 20px;
 	font-family: Georgia, "Times New Roman", serif;
-	text-transform: capitalize;
+	font-size: 20px;
 	font-variant: normal;
+	letter-spacing: 1px;
 	margin-left: 5px; 
+	text-transform: capitalize;
 }
 
 .titlebox h1 a {
-	letter-spacing: 1px;
-	font-size: 15px;
 	font-family: Georgia, "Times New Roman", serif;
+	font-size: 15px;
+	letter-spacing: 1px;
 	text-transform: capitalize;
 }
 
 .pagename {
 	letter-spacing: 1px;
 }
+
 #header-img{
-	margin-right: 5px;
 	margin-left: 55px;
+	margin-right: 5px;
 	padding-top: 3px;
 }
+
 .tabmenu {
 	display: block;
-	margin: 15px 0 0 50px;
 	height: 18px;
-
+	margin: 15px 0 0 50px;
 }
 
 .tabmenu li {
-	border:none;
 	background-color: inherit;
-	padding: 0;
+	border: none;
 	margin: 0;
+	padding: 0;
 }
 
 .tabmenu li.selected a {
-	border: 1px solid #999;
-	border-bottom: 1px solid #fafafa;
 	background-color: #FAFAFA;
-	color:#1a1a1a;
-
+	border-bottom: 1px solid #fafafa;
+	border: 1px solid #999;
+	color: #1a1a1a;
 }
 
 p.nextprev{
 	margin-left: 93px;
-
 }
 
 .tabmenu li a {
-	padding: 4px 12px;
 	background-color: #FAFAFA;
-	font-weight: normal;
 	border-right: 1px solid #999;
 	border-top: 1px solid #999;
-
+	font-weight: normal;
+	padding: 4px 12px;
 }
 
 #header-bottom-right {
 	background-color: #FAFAFA;
-	border: 1px solid #999;
 	border-bottom: 1px solid #fafafa;
 	border-radius: 0;
-	padding: 4px 10px 4px 10px;
+	border: 1px solid #999;
 	font-size: 12px;
 	height: 18px;
 	margin-bottom: -1px;
+	padding: 4px 10px 4px 10px;
 }
-	span.user{
-		background-color: #FAFAFA;
-		vertical-align: middle;
-	}
 
-	span.user .userkarma {
+span.user{
+	background-color: #FAFAFA;
+	vertical-align: middle;
+}
+
+span.user .userkarma {
+	border-bottom: none;
 	cursor: pointer;
 	font-weight: normal;
-	border-bottom:none;
-	}
+}
 
-	.pref-lang {
+.pref-lang {
 	font-weight: normal;	
-	}
+}
 
 /* Content */
 
 #siteTable {
-	max-width: 620px;
 	margin-left: 6px;
+	max-width: 620px;
 }
 
 
 a {
-	color:#50637B;
+	color: #50637B;
 }
 
 .link .rank {
 	color: #E7E7E7;
+	font-family: "Times New Roman", serif;
 	font-size: 24px;
 	margin: 12px 15px 0 0;
-	font-family: Times, "Times New Roman", serif;
 }
 
 .link .score {
 	margin-right: 1px;
 }
-.entry .buttons a.comments {
-	color:#50637B;
-}
 
+.entry .buttons a.comments {
+	color: #50637B;
+}
 
 .thing {
 	margin: 10px 0 5px 0;
 }
 
-/*Side bar styles*/
+/* Side bar */
 
 .side {
-	padding:0px 20px 0 5px;
-	width: 250px;
 	background-color: inherit;
-	border: 1px solid #dbdbdb;
 	border-right: none;
 	border-top: none;
-	padding-left: 20px;
+	border: 1px solid #dbdbdb;
 	margin: 0;
+	padding-left: 20px;
+	padding: 0px 20px 0 5px;
+	width: 250px;
 }
 
 h2 {
 	color: #1A1A1A;
-	padding: 5px 0 5px
+	padding: 5px 0 5px;
 }
 
 #search {
-	width:100%;
-	width: 242px;
 	padding: 3px;
+	width: 242px;
 }
 
 .titlebox form.toggle {
 	background-color: inherit;
 }
-.titlebox form.toggle, .leavemoderator {
+
+.titlebox form.toggle,
+.leavemoderator {
 	background-color: inherit;
 }
 
 .infobar {
 	width: 100%;
-
 }
 
 .sidebox .spacer {
@@ -179,7 +174,7 @@ h2 {
 } 
 
 .thing .title a {
-	color: #1a1a1a!important;
+	color: #1a1a1a !important;
 }
 
 .md ul {
@@ -187,5 +182,5 @@ h2 {
 }
 
 .md ul li {
-	padding-bottom:5px;
+	padding-bottom: 5px;
 }
