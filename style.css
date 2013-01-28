@@ -27,9 +27,13 @@ a {
 	text-transform: capitalize;
 }
 
+.titlebox h1 {
+	margin-bottom: 6px;
+}
+
 .titlebox h1 a {
 	font-family: Georgia, "Times New Roman", serif;
-	font-size: 15px;
+	font-size: 20px;
 	letter-spacing: 1px;
 	text-transform: capitalize;
 }
