@@ -216,3 +216,18 @@ h3 {
 .md ul li {
 	padding-bottom: 5px;
 }
+
+/* Footer */
+
+.footer {
+	border: 1px solid #bdbdbd;
+	margin: 30px 15px 15px;
+}
+
+.bottommenu {
+	line-height: 150%;
+}
+
+.rounded {
+	border-radius: 0;
+}
