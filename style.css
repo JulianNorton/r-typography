@@ -1,5 +1,6 @@
 body {
 	background-color: #FAFAFA;
+	min-width: 850px;
 }
 
 a {
@@ -119,8 +120,7 @@ span.user .userkarma {
 /* Content */
 
 #siteTable {
-	margin-top: 16px;
-	margin-left: 6px;
+	margin: 16px 6px 0;
 	max-width: 1020px;
 }
 
