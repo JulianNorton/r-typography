@@ -151,7 +151,8 @@ span.user .userkarma {
 
 #siteTable .thing {
 	border-bottom: 1px solid #dbdbdb;
-	margin: 10px 0 0;
+	margin: 10px 4px 0;
+	max-width: 933px;
 	padding-bottom: 9px;
 }
 
