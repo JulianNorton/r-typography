@@ -189,7 +189,9 @@ span.user .userkarma {
 
 h2 {
 	color: #222;
-	padding: 5px 0 5px;
+	font-family: Georgia, "Times New Roman", serif;
+	font-size: 18px;
+	padding: 5px 0 0;
 }
 
 h3 {
