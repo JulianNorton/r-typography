@@ -5,7 +5,7 @@ body {
 /* Header */
 
 #header {
-	background-color: #ffcc00;
+	background-color: #fc0;
 	border-bottom: 1px solid #999;
 }
 
@@ -181,6 +181,15 @@ h3 {
 
 .sidebox .spacer {
 	background-color: inherit;
+}
+
+.morelink {
+	background: #fc0 none repeat-x scroll center left;
+	background-image: none;
+}
+
+.morelink a {
+	color: #222;
 }
 
 .sidecontentbox .title h1 {
