@@ -6,6 +6,16 @@ a {
 	color: #50637B;
 }
 
+/* Subreddit list */
+
+#sr-header-area .dropdown.srdrop {
+	margin-top: -4px;
+}
+
+#sr-more-link {
+	color: #1a1a1a;
+}
+
 /* Header */
 
 #header {
