@@ -361,3 +361,13 @@ h3 {
 .rounded {
 	border-radius: 0;
 }
+
+/* Submit page */
+
+#link-desc:after,
+#text-desc:after {
+	content: " Please direct all typeface identification questions to /r/identifythisfont."
+	display: block;
+	font-weight: bold;
+	margin-top: 8px;
+}
