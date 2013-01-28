@@ -213,6 +213,10 @@ span.user .userkarma {
 	padding: 1px 4px 2px;
 }
 
+.linefield .title {
+	color: #1a1a1a;
+}
+
 /* Side bar */
 
 .side {
