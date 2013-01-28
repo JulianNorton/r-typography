@@ -28,6 +28,10 @@ a {
 	border-bottom: 1px solid #999;
 }
 
+#header-bottom-left {
+	min-height: 70px;
+}
+
 #header img {
 	vertical-align: bottom;
 }
