@@ -130,6 +130,11 @@ span.user .userkarma {
 	color: #777;
 }
 
+.domain,
+.tagline {
+	color: #777;
+}
+
 .entry .buttons a.comments,
 .entry .buttons a.comments .empty {
 	color: #50637B;
