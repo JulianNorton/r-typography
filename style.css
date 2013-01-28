@@ -101,6 +101,7 @@ span.user .userkarma {
 /* Content */
 
 #siteTable {
+	margin-top: 16px;
 	margin-left: 6px;
 	max-width: 1020px;
 }
@@ -137,9 +138,13 @@ a {
 	border: 1px solid #dbdbdb;
 	border-right: none;
 	border-top: none;
-	margin: 0;
-	padding: 4px 15px 0 15px;
+	#margin: 16px 0 0;
+	padding: 16px 15px 0 15px;
 	width: 250px;
+}
+
+.side .spacer {
+	margin-top: 0;
 }
 
 h2 {
