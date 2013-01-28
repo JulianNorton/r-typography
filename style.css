@@ -95,6 +95,10 @@ a {
 	color: #1a1a1a;
 }
 
+.tabmenu li.selected:last-child a {
+	border-right: 1px solid #999;
+}
+
 #header-bottom-right {
 	background-color: #fafafa;
 	border: 1px solid #999;
