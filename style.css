@@ -364,9 +364,13 @@ h3 {
 
 /* Submit page */
 
+.formtabs-content .infobar {
+	width: 508px;
+}
+
 #link-desc:after,
 #text-desc:after {
-	content: " Please direct all typeface identification questions to /r/identifythisfont."
+	content: " Please direct all typeface identification questions to /r/identifythisfont.";
 	display: block;
 	font-weight: bold;
 	margin-top: 8px;
