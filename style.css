@@ -179,7 +179,8 @@ p.nextprev {
 	border: 1px solid #dbdbdb;
 	border-right: none;
 	border-top: none;
-	padding: 16px 15px 0 15px;
+	margin-right: 15px;
+	padding: 16px 0 0 15px;
 	width: 258px;
 }
 
