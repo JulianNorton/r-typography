@@ -12,6 +12,10 @@ a {
 	margin-top: -4px;
 }
 
+#sr-header-area .selected a {
+	color: #222;
+}
+
 #sr-more-link {
 	color: #1a1a1a;
 }
