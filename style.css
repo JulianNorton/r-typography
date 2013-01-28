@@ -46,6 +46,10 @@ a {
 	text-transform: capitalize;
 }
 
+.pagename a:hover {
+	text-decoration: none;
+}
+
 .titlebox h1 {
 	margin-bottom: 6px;
 }
@@ -55,6 +59,10 @@ a {
 	font-size: 20px;
 	letter-spacing: 1px;
 	text-transform: capitalize;
+}
+
+.titlebox h1 a:hover {
+	text-decoration: none;
 }
 
 .pagename {
