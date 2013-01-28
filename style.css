@@ -122,6 +122,14 @@ span.user .userkarma {
 	margin-right: 1px;
 }
 
+.thing .title.loggedin {
+	color: #1a1a1a;
+}
+
+.thing .title.loggedin:visited {
+	color: #777;
+}
+
 .entry .buttons a.comments,
 .entry .buttons a.comments .empty {
 	color: #50637B;
@@ -216,10 +224,6 @@ h3 {
 
 .nub {
 	display: none;
-}
-
-.thing .title a {
-	color: #1a1a1a !important;
 }
 
 .md h1,
