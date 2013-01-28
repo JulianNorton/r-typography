@@ -60,26 +60,23 @@ a {
 
 .tabmenu {
 	display: block;
-	height: 18px;
+	height: 19px;
 	margin: 15px 0 0 50px;
 }
 
 .tabmenu li {
 	background-color: inherit;
 	border: none;
+	border-bottom: 1px solid #999;
 	margin: 0;
 	padding: 0;
 }
 
 .tabmenu li.selected a {
 	background-color: #FAFAFA;
-	border-bottom: 1px solid #fafafa;
 	border: 1px solid #999;
+	border-bottom: 1px solid #fafafa;
 	color: #1a1a1a;
-}
-
-p.nextprev {
-	margin-left: 93px;
 }
 
 .tabmenu li a {
@@ -87,7 +84,7 @@ p.nextprev {
 	border-right: 1px solid #999;
 	border-top: 1px solid #999;
 	font-weight: normal;
-	padding: 4px 12px;
+	padding: 4px 12px 5px;
 }
 
 #header-bottom-right {
@@ -98,12 +95,11 @@ p.nextprev {
 	font-size: 12px;
 	height: 18px;
 	margin-bottom: -1px;
-	padding: 6px 10px 1px;
+	padding: 5px 10px 0;
 }
 
 span.user {
 	background-color: #FAFAFA;
-	vertical-align: middle;
 }
 
 span.user .userkarma {
@@ -170,6 +166,10 @@ span.user .userkarma {
 .entry .buttons a.comments,
 .entry .buttons a.comments .empty {
 	color: #50637B;
+}
+
+p.nextprev {
+	margin-left: 93px;
 }
 
 /* Side bar */
