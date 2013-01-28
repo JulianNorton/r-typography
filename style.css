@@ -204,12 +204,9 @@ span.user .userkarma {
 	border: 1px solid #dbdbdb;
 	border-right: none;
 	border-top: none;
-	-moz-box-sizing: border-box;
-	-webkit-box-sizing: border-box;
-	box-sizing: border-box;
 	margin-right: 0;
 	padding: 16px 15px 0 15px;
-	width: 258px;
+	width: 260px;
 }
 
 .side .spacer {
@@ -238,10 +235,7 @@ h3 {
 }
 
 #search input[type="text"] {
-	-moz-box-sizing: border-box;
-	-webkit-box-sizing: border-box;
-	box-sizing: border-box;
-	width: 100%;
+	width: 254px;
 }
 
 .titlebox form.toggle {
