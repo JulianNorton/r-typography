@@ -146,6 +146,7 @@ span.user .userkarma {
 .domain,
 .tagline {
 	color: #777;
+	font-size: 11px;
 }
 
 .link .title {
@@ -166,7 +167,7 @@ span.user .userkarma {
 	border-right: none;
 	border-top: none;
 	padding: 16px 15px 0 15px;
-	width: 250px;
+	width: 258px;
 }
 
 .side .spacer {
@@ -199,6 +200,7 @@ h3 {
 
 .titlebox form.toggle {
 	background-color: inherit;
+	font-size: 11px;
 }
 
 .titlebox form.toggle,
@@ -212,6 +214,12 @@ h3 {
 
 .titlebox span.number:after {
 	content: " typophiles";
+}
+
+.flairtoggle,
+.leavemoderator,
+.titlebox .age {
+	font-size: 11px;
 }
 
 .infobar {
@@ -245,6 +253,15 @@ h3 {
 	padding-bottom: 2px;
 }
 
+.sidecontentbox a.helplink {
+	font-size: 11px;
+	margin-top: 0;
+}
+
+.sidecontentbox .more {
+	font-size: 11px;
+}
+
 .nub {
 	display: none;
 }
@@ -264,6 +281,11 @@ h3 {
 
 .md ul li {
 	padding-bottom: 5px;
+}
+
+.gadget .right,
+.account-activity-box {
+	font-size: 11px;
 }
 
 /* Footer */
