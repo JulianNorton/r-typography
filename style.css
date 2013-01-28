@@ -130,8 +130,9 @@ span.user .userkarma {
 }
 
 #siteTable {
-	margin: 10px 6px 0;
+	margin: 6px 6px 0;
 	max-width: 1020px;
+	padding-top: 1px;
 }
 
 #siteTable .thing {
