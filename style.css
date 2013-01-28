@@ -277,12 +277,23 @@ h3 {
 }
 
 .morelink {
-	background: #fc0 none repeat-x scroll center left;
+	background-color: #fc0;
 	background-image: none;
+	border: 1px solid #bdbdbd;
 	margin-bottom: 6px;
 }
 
+.morelink:hover {
+	border: 1px solid #bdbdbd;
+}
+
 .morelink a {
+	color: #222;
+}
+
+.morelink:hover a {
+	background-color: #fc0;
+	#border: 1px solid #bdbdbd;
 	color: #222;
 }
 
