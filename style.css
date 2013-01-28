@@ -1,10 +1,10 @@
 body {
-	background-color: #FAFAFA;
+	background-color: #fafafa;
 	min-width: 850px;
 }
 
 a {
-	color: #50637B;
+	color: #50637b;
 }
 
 /* Subreddit list */
@@ -78,14 +78,14 @@ a {
 }
 
 .tabmenu li.selected a {
-	background-color: #FAFAFA;
+	background-color: #fafafa;
 	border: 1px solid #999;
 	border-bottom: 1px solid #fafafa;
 	color: #1a1a1a;
 }
 
 .tabmenu li a {
-	background-color: #FAFAFA;
+	background-color: #fafafa;
 	border-right: 1px solid #999;
 	border-top: 1px solid #999;
 	font-weight: normal;
@@ -93,7 +93,7 @@ a {
 }
 
 #header-bottom-right {
-	background-color: #FAFAFA;
+	background-color: #fafafa;
 	border: 1px solid #999;
 	border-right: none;
 	border-radius: 0;
@@ -104,7 +104,7 @@ a {
 }
 
 span.user {
-	background-color: #FAFAFA;
+	background-color: #fafafa;
 }
 
 span.user .userkarma {
@@ -125,7 +125,7 @@ span.user .userkarma {
 }
 
 #siteTable .thing {
-	border-bottom: 1px solid #DBDBDB;
+	border-bottom: 1px solid #dbdbdb;
 	margin: 10px 0 0;
 	padding-bottom: 9px;
 }
@@ -169,7 +169,7 @@ span.user .userkarma {
 
 .entry .buttons a.comments,
 .entry .buttons a.comments .empty {
-	color: #50637B;
+	color: #50637b;
 }
 
 p.nextprev {
@@ -271,7 +271,7 @@ h3 {
 
 .sidecontentbox .content {
 	border: none;
-	border-bottom: 1px solid #DBDBDB;
+	border-bottom: 1px solid #dbdbdb;
 }
 
 .sidecontentbox ul li {
