@@ -183,8 +183,11 @@ p.nextprev {
 	border: 1px solid #dbdbdb;
 	border-right: none;
 	border-top: none;
-	margin-right: 15px;
-	padding: 16px 0 0 15px;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	margin-right: 0;
+	padding: 16px 15px 0 15px;
 	width: 258px;
 }
 
