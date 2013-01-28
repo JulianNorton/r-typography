@@ -207,6 +207,7 @@ h3 {
 .morelink {
 	background: #fc0 none repeat-x scroll center left;
 	background-image: none;
+	margin-bottom: 6px;
 }
 
 .morelink a {
