@@ -224,7 +224,7 @@ span.user .userkarma {
 	border-top: none;
 	margin-right: 0;
 	padding: 16px 15px 0 15px;
-	width: 260px;
+	width: 300px; /* Minimum! Otherwise ads are not shown */
 }
 
 .side .spacer {
