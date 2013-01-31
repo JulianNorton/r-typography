@@ -418,3 +418,8 @@ h3 {
 #subButtons-typography {
 	padding-bottom: 1em !important;
 }
+
+.keyHighlight {
+	background-color: #fffaea;
+	outline: none;
+}
