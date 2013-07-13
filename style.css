@@ -269,8 +269,12 @@ h3 {
 	display: none;
 }
 
-.titlebox span.number:after {
+.titlebox .subscribers span.number:after {
 	content: " typophiles";
+}
+
+.titlebox .users-online span.number:after {
+	content: " typophiles here now";
 }
 
 .flairtoggle,
